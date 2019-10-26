@@ -35,7 +35,8 @@ The latest release of the Java Standard Edition is [Java SE 11.0.5 (LTS)](https:
 **Dynamic** − Java is considered to be more dynamic than C or C++ since it is designed to adapt to an evolving environment. Java programs can carry extensive amount of run-time information that can be used to verify and resolve accesses to objects on run-time.
 
 ## Basic Java Topics:
-Lesson 1
+
+**Lesson 1**
 01.	Overview & History 
 02.	Environment Setup
 03.	Basic Syntax with a simple program 
@@ -43,39 +44,39 @@ Lesson 1
 05.	Run java code
 06.	Home work 
 
-Lesson 2
+**Lesson 2**
 01.	Variables initialization and declare 
 02.	How to write Comments 
 03.	Basic datatypes 
-    a.	Primitive 
-        i.	Byte (1byte => -128 to 127)
-        ii.	Short (2byte => -32768 to 32767)
-        iii.	Int (4byte => -2147483648 to 2147483647)
-        iv.	Long (8bytes)
-        v.	Float (4bytes)
-        vi.	Double (8bytes)
-        vii.	Boolean (1bit)
-        viii.	Char (2bytes)
-    b.	Non–primitive 
-        i.	String 
-        ii.	Array 
-        iii.	Class 
-        iv.	Interface 
-    c.	Basic Operators
-        i.	Arithmetic operators
-        ii.	Assignment operators
-        iii.	Comparison operators
-        iv.	Logical operators
-        v.	Bitwise operators
+    1. Primitive 
+        - Byte (1byte => -128 to 127)
+        - Short (2byte => -32768 to 32767)
+        - Int (4byte => -2147483648 to 2147483647)
+        - Long (8bytes)
+        - Float (4bytes)
+        - Double (8bytes)
+        - Boolean (1bit)
+        - Char (2bytes)
+    2. Non–primitive 
+        - String 
+        - Array 
+        - Class 
+        - Interface 
+    3. Basic Operators
+        - Arithmetic operators
+        - Assignment operators
+        - Comparison operators
+        - Logical operators
+        - Bitwise operators
 
-Lesson 3
+**Lesson 3**
 01.	Arrays 
 
-Lesson 4
+**Lesson 4**
 01.	Loop Control
 02.	Decision Making
 
-Lesson 5
+**Lesson 5**
 01.	Date & Time
 02.	Regular Expressions
 03.	Methods
@@ -83,27 +84,27 @@ Lesson 5
 05.	Exceptions
 06.	Inner classes
 
-Lesson 6
+**Lesson 6**
 01.	Object Oriented
 02.	Access control modifier
-    a.	Default 
-    b.	Public 
-    c.	Private 
-    d.	Protected 
+    1. Default 
+    2. Public 
+    3. Private 
+    4. Protected 
 03.	Inheritance
 04.	Encapsulation
 
-Lesson 7
-01.	 Polymorphism
+**Lesson 7**
+01.	Polymorphism
 02.	Method overload 
 03.	Method override 
 
-Lesson 8
+**Lesson 8**
 01.	Abstraction
 02.	Interfaces
 03.	Packages
 
-Lesson 9
+**Lesson 9**
 01.	Data Structures
 02.	Collections
 03.	Generics
