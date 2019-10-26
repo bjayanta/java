@@ -34,32 +34,48 @@ The latest release of the Java Standard Edition is [Java SE 11.0.5 (LTS)](https:
 
 **Dynamic** − Java is considered to be more dynamic than C or C++ since it is designed to adapt to an evolving environment. Java programs can carry extensive amount of run-time information that can be used to verify and resolve accesses to objects on run-time.
 
-**Lesson 1**
-01.	Overview
-02.	History 
-03.	Environment Setup
-04.	A simple program 
-05.	Basic Syntax
-06.	Object & Classes
-07.	Constructors
+## Basic Java Topics:
+Lesson 1
+01.	Overview & History 
+02.	Environment Setup
+03.	Basic Syntax with a simple program 
+04.	Use of print and println function
+05.	Run java code
+06.	Home work 
 
-**Lesson 2**
-01.	Basic Datatypes
-    1. Number
-    2. Characters
-    3. String 
-02.	Variable Types
-03.	Modifier Types
-04.	Basic Operators
+Lesson 2
+01.	Variables initialization and declare 
+02.	How to write Comments 
+03.	Basic datatypes 
+    a.	Primitive 
+        i.	Byte (1byte => -128 to 127)
+        ii.	Short (2byte => -32768 to 32767)
+        iii.	Int (4byte => -2147483648 to 2147483647)
+        iv.	Long (8bytes)
+        v.	Float (4bytes)
+        vi.	Double (8bytes)
+        vii.	Boolean (1bit)
+        viii.	Char (2bytes)
+    b.	Non–primitive 
+        i.	String 
+        ii.	Array 
+        iii.	Class 
+        iv.	Interface 
+    c.	Basic Operators
+        i.	Arithmetic operators
+        ii.	Assignment operators
+        iii.	Comparison operators
+        iv.	Logical operators
+        v.	Bitwise operators
 
-**Lesson 3**
+Lesson 3
 01.	Arrays 
 
-**Lesson 4**
+Lesson 4
 01.	Loop Control
 02.	Decision Making
 
-**Lesson 5**
+Lesson 5
 01.	Date & Time
 02.	Regular Expressions
 03.	Methods
@@ -67,22 +83,27 @@ The latest release of the Java Standard Edition is [Java SE 11.0.5 (LTS)](https:
 05.	Exceptions
 06.	Inner classes
 
-**Lesson 6**
+Lesson 6
 01.	Object Oriented
-02.	Inheritance
-03.	Encapsulation
+02.	Access control modifier
+    a.	Default 
+    b.	Public 
+    c.	Private 
+    d.	Protected 
+03.	Inheritance
+04.	Encapsulation
 
-**Lesson 7**
+Lesson 7
 01.	 Polymorphism
 02.	Method overload 
 03.	Method override 
 
-**Lesson 8**
+Lesson 8
 01.	Abstraction
 02.	Interfaces
 03.	Packages
 
-**Lesson 9**
+Lesson 9
 01.	Data Structures
 02.	Collections
 03.	Generics
