@@ -9,4 +9,7 @@
 06. Array length 
 07. Find value from an array using index
 08. Use of for-loop and foreach-loop in array
-09. Homework 
+09. Concat String 
+10. Homework 
+    01. Sum a set of number in array
+    02. Concat two string type of array
